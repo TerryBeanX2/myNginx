@@ -1,0 +1,25 @@
+2016/12/20 15:55:19 [emerg] 12252#9080: directive "underscores_in_headers" is not terminated by ";" in C:\nginx/conf/nginx.conf:43
+2016/12/20 15:55:24 [emerg] 9632#4088: directive "underscores_in_headers" is not terminated by ";" in C:\nginx/conf/nginx.conf:43
+2016/12/20 15:55:56 [notice] 15268#11148: signal process started
+2016/12/20 16:02:49 [notice] 13232#5488: signal process started
+2016/12/20 16:02:49 [error] 13232#5488: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/12/20 16:04:13 [notice] 3100#10124: signal process started
+2016/12/20 16:04:45 [notice] 12508#15904: signal process started
+2016/12/20 16:07:05 [emerg] 12980#7752: invalid number of arguments in "add_header" directive in C:\nginx/conf/nginx.conf:59
+2016/12/20 16:07:13 [emerg] 6868#16160: invalid number of arguments in "add_header" directive in C:\nginx/conf/nginx.conf:59
+2016/12/20 16:09:41 [notice] 9164#1228: signal process started
+2016/12/20 16:10:20 [notice] 16056#9416: signal process started
+2016/12/20 16:11:56 [emerg] 5252#12264: unexpected "," in C:\nginx/conf/nginx.conf:58
+2016/12/20 16:16:08 [notice] 5776#11428: signal process started
+2016/12/20 16:16:32 [notice] 3440#6764: signal process started
+2016/12/20 16:17:16 [notice] 7804#14816: signal process started
+2016/12/20 16:17:16 [error] 7804#14816: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/12/20 16:18:29 [notice] 14184#5620: signal process started
+2016/12/20 16:20:25 [emerg] 12872#3148: invalid number of arguments in "add_header" directive in C:\nginx/conf/nginx.conf:59
+2016/12/20 16:20:33 [emerg] 12012#8912: invalid number of arguments in "add_header" directive in C:\nginx/conf/nginx.conf:59
+2016/12/20 16:21:30 [notice] 14260#6104: signal process started
+2016/12/20 16:22:21 [notice] 4684#13944: signal process started
+2016/12/20 16:22:43 [notice] 4900#15400: signal process started
+2016/12/20 16:23:40 [notice] 7876#5484: signal process started
+2016/12/20 16:25:20 [notice] 5104#10408: signal process started
+2016/12/20 16:26:09 [notice] 3376#6556: signal process started
